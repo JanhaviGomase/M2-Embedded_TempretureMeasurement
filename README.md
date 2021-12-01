@@ -11,3 +11,11 @@ As like the whole flow will continue and that’s what the reason we can say tha
 - Passenger has the access to modify the speed of a fan in the bus.
 - Low cost and robust system.
 - Modular Approach.
+
+## Badges
+Cpp Check- [![cppcheck-action-test](https://github.com/JanhaviGomase/M2-Embedded_TempretureMeasurement/actions/workflows/cpp.yml/badge.svg)](https://github.com/JanhaviGomase/M2-Embedded_TempretureMeasurement/actions/workflows/cpp.yml)
+
+Code Inspector-![](https://api.codiga.io/project/29841/score/svg)
+![](https://api.codiga.io/project/29841/status/svg)
+
+
